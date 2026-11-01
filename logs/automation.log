@@ -1,0 +1,333 @@
+2026-11-01 06:15:38 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:17:32 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:17:32 INFO  PincodeCheckTest - Starting test case: TC01
+2026-11-01 06:17:34 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:17:34 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:17:34 INFO  RequestBuilder - Response Time: 205 ms
+2026-11-01 06:17:34 INFO  PincodeCheckTest - Starting test case: TC02
+2026-11-01 06:17:34 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:17:34 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:17:34 INFO  RequestBuilder - Response Time: 163 ms
+2026-11-01 06:20:35 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:20:35 INFO  PincodeCheckTest - Starting test case: TC01
+2026-11-01 06:20:37 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:20:37 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:20:37 INFO  RequestBuilder - Response Time: 186 ms
+2026-11-01 06:20:37 INFO  PincodeCheckTest - Starting test case: TC02
+2026-11-01 06:20:37 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:20:37 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:20:37 INFO  RequestBuilder - Response Time: 191 ms
+2026-11-01 06:20:52 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:20:52 INFO  PincodeCheckTest - Starting test case: TC01
+2026-11-01 06:20:54 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:20:54 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:20:54 INFO  RequestBuilder - Response Time: 191 ms
+2026-11-01 06:20:54 INFO  PincodeCheckTest - Starting test case: TC02
+2026-11-01 06:20:54 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:20:54 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:20:54 INFO  RequestBuilder - Response Time: 143 ms
+2026-11-01 06:24:52 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:24:52 INFO  PincodeCheckTest - Executing TC01 for pincode 171008
+2026-11-01 06:24:54 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:24:54 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:24:54 INFO  RequestBuilder - Response Time: 230 ms
+2026-11-01 06:24:54 INFO  PincodeCheckTest - Expected result: In stock
+2026-11-01 06:24:54 INFO  PincodeCheckTest - Actual response: Get delivery by Wednesday, 4 Nov
+2026-11-01 06:24:54 INFO  PincodeCheckTest - TC01 completed successfully
+2026-11-01 06:24:54 INFO  PincodeCheckTest - Executing TC02 for pincode 121213
+2026-11-01 06:24:54 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:24:54 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:24:54 INFO  RequestBuilder - Response Time: 199 ms
+2026-11-01 06:24:54 INFO  PincodeCheckTest - Expected result: Out of stock
+2026-11-01 06:24:54 INFO  PincodeCheckTest - Actual response: Sorry! Item are not deliverable to this pincode
+2026-11-01 06:24:54 INFO  PincodeCheckTest - TC02 completed successfully
+2026-11-01 06:27:38 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:27:38 INFO  PincodeCheckTest - Executing TC01 for pincode 171008
+2026-11-01 06:27:40 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:27:40 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:27:40 INFO  RequestBuilder - Response Time: 183 ms
+2026-11-01 06:27:40 INFO  PincodeCheckTest - Executing TC02 for pincode 121213
+2026-11-01 06:27:40 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:27:40 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:27:40 INFO  RequestBuilder - Response Time: 145 ms
+2026-11-01 06:28:03 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:28:03 INFO  PincodeCheckTest - Executing TC01 for pincode 171008
+2026-11-01 06:28:04 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:28:05 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:28:05 INFO  RequestBuilder - Response Time: 169 ms
+2026-11-01 06:28:05 INFO  PincodeCheckTest - Expected result: In stock
+2026-11-01 06:28:05 INFO  PincodeCheckTest - Actual response: Get delivery by Wednesday, 4 Nov
+2026-11-01 06:28:05 INFO  PincodeCheckTest - TC01 completed successfully
+2026-11-01 06:28:05 INFO  PincodeCheckTest - Executing TC02 for pincode 121213
+2026-11-01 06:28:05 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:28:05 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:28:05 INFO  RequestBuilder - Response Time: 145 ms
+2026-11-01 06:28:05 INFO  PincodeCheckTest - Expected result: Out of stock
+2026-11-01 06:28:05 INFO  PincodeCheckTest - Actual response: Sorry! Item are not deliverable to this pincode
+2026-11-01 06:28:05 INFO  PincodeCheckTest - TC02 completed successfully
+2026-11-01 06:29:12 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:29:12 INFO  PincodeCheckTest - Executing TC01 for pincode 171008
+2026-11-01 06:29:14 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:29:14 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:29:14 INFO  RequestBuilder - Response Time: 180 ms
+2026-11-01 06:29:14 INFO  PincodeCheckTest - All response validations passed for TC01
+2026-11-01 06:29:14 INFO  PincodeCheckTest - Executing TC02 for pincode 121213
+2026-11-01 06:29:14 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:29:14 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:29:14 INFO  RequestBuilder - Response Time: 142 ms
+2026-11-01 06:29:14 INFO  PincodeCheckTest - All response validations passed for TC02
+2026-11-01 06:30:50 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:30:50 INFO  PincodeCheckTest - ========== TC01 STARTED ==========
+2026-11-01 06:30:50 INFO  PincodeCheckTest - Request Product ID: 421921
+2026-11-01 06:30:50 INFO  PincodeCheckTest - Request Pincode: 171008
+2026-11-01 06:30:50 INFO  PincodeCheckTest - Expected Result: In stock
+2026-11-01 06:30:52 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:30:52 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:30:52 INFO  RequestBuilder - Response Time: 190 ms
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response Status Code: 200
+2026-11-01 06:30:52 INFO  PincodeCheckTest - ========== RESPONSE BODY ==========
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Complete Response: {
+    "message": "Get delivery by Wednesday, 4 Nov",
+    "pincode": 171008,
+    "delivery_by": "4 November 2026",
+    "is_location_error": false
+}
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response Pincode: 171008
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response Message: Get delivery by Wednesday, 4 Nov
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response is_location_error: false
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Product Deliverable: true
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response delivery_by: 4 November 2026
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response product_available: null
+2026-11-01 06:30:52 INFO  PincodeCheckTest - All response validations passed for TC01
+2026-11-01 06:30:52 INFO  PincodeCheckTest - ========== TC01 COMPLETED ==========
+2026-11-01 06:30:52 INFO  PincodeCheckTest - ========== TC02 STARTED ==========
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Request Product ID: 421921
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Request Pincode: 121213
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Expected Result: Out of stock
+2026-11-01 06:30:52 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:30:52 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:30:52 INFO  RequestBuilder - Response Time: 181 ms
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response Status Code: 200
+2026-11-01 06:30:52 INFO  PincodeCheckTest - ========== RESPONSE BODY ==========
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Complete Response: {
+    "message": "Sorry! Item are not deliverable to this pincode",
+    "pincode": 121213,
+    "is_location_error": true,
+    "product_available": 1
+}
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response Pincode: 121213
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response Message: Sorry! Item are not deliverable to this pincode
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response is_location_error: true
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Product Deliverable: false
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response delivery_by: null
+2026-11-01 06:30:52 INFO  PincodeCheckTest - Response product_available: 1
+2026-11-01 06:30:52 INFO  PincodeCheckTest - All response validations passed for TC02
+2026-11-01 06:30:52 INFO  PincodeCheckTest - ========== TC02 COMPLETED ==========
+2026-11-01 06:33:23 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-01 06:33:23 INFO  PincodeCheckTest - ========== TC01 STARTED ==========
+2026-11-01 06:33:23 INFO  PincodeCheckTest - Request: Product ID = 421921, Pincode = 171008
+2026-11-01 06:33:25 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:33:25 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:33:25 INFO  RequestBuilder - Response Time: 193 ms
+2026-11-01 06:33:25 INFO  PincodeCheckTest - Response Body: {
+    "message": "Get delivery by Wednesday, 4 Nov",
+    "pincode": 171008,
+    "delivery_by": "4 November 2026",
+    "is_location_error": false
+}
+2026-11-01 06:33:25 INFO  PincodeCheckTest - TC01 passed. Expected Result: In stock
+2026-11-01 06:33:25 INFO  PincodeCheckTest - ========== TC01 COMPLETED ==========
+2026-11-01 06:33:25 INFO  PincodeCheckTest - ========== TC02 STARTED ==========
+2026-11-01 06:33:25 INFO  PincodeCheckTest - Request: Product ID = 421921, Pincode = 121213
+2026-11-01 06:33:25 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-01 06:33:25 INFO  RequestBuilder - Response Status Code: 200
+2026-11-01 06:33:25 INFO  RequestBuilder - Response Time: 167 ms
+2026-11-01 06:33:25 INFO  PincodeCheckTest - Response Body: {
+    "message": "Sorry! Item are not deliverable to this pincode",
+    "pincode": 121213,
+    "is_location_error": true,
+    "product_available": 1
+}
+2026-11-01 06:33:25 INFO  PincodeCheckTest - TC02 passed. Expected Result: Out of stock
+2026-11-01 06:33:25 INFO  PincodeCheckTest - ========== TC02 COMPLETED ==========
+2026-11-02 04:09:20 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-02 04:09:20 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:09:20 INFO  PincodeCheckTest - STARTING PINCODE CHECK TEST
+2026-11-02 04:09:20 INFO  PincodeCheckTest - Product ID: 421921
+2026-11-02 04:09:20 INFO  PincodeCheckTest - Pincode: 171008
+2026-11-02 04:09:20 INFO  PincodeCheckTest - Stock Status: IN_STOCK
+2026-11-02 04:09:22 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-02 04:09:22 INFO  RequestBuilder - Response Status Code: 200
+2026-11-02 04:09:22 INFO  RequestBuilder - Response Time: 212 ms
+2026-11-02 04:09:22 INFO  PincodeCheckTest - HTTP Status Code: 200
+2026-11-02 04:09:22 INFO  PincodeCheckTest - Response Body: {"message":"Get delivery in 2 days, 4 Nov","pincode":171008,"delivery_by":null,"is_location_error":false}
+2026-11-02 04:09:22 INFO  PincodeCheckTest - Validating IN_STOCK response
+2026-11-02 04:09:22 ERROR PincodeCheckTest - TEST FAILED: IN_STOCK
+java.lang.AssertionError: Delivery date is missing expected object to not be null
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.assertNotNull(Assert.java:1496)
+	at tests.PincodeCheckTest.verifyPincodeCheck(PincodeCheckTest.java:90)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2026-11-02 04:09:22 INFO  PincodeCheckTest - PINCODE CHECK TEST COMPLETED
+2026-11-02 04:09:22 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:09:22 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:09:22 INFO  PincodeCheckTest - STARTING PINCODE CHECK TEST
+2026-11-02 04:09:22 INFO  PincodeCheckTest - Product ID: 421921
+2026-11-02 04:09:22 INFO  PincodeCheckTest - Pincode: 121213
+2026-11-02 04:09:22 INFO  PincodeCheckTest - Stock Status: OOS
+2026-11-02 04:09:22 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-02 04:09:23 INFO  RequestBuilder - Response Status Code: 200
+2026-11-02 04:09:23 INFO  RequestBuilder - Response Time: 268 ms
+2026-11-02 04:09:23 INFO  PincodeCheckTest - HTTP Status Code: 200
+2026-11-02 04:09:23 INFO  PincodeCheckTest - Response Body: {"message":"Sorry! Items not deliverable to this pincode","pincode":121213,"is_location_error":true,"product_available":0}
+2026-11-02 04:09:23 INFO  PincodeCheckTest - Validating OOS response
+2026-11-02 04:09:23 ERROR PincodeCheckTest - TEST FAILED: OOS
+java.lang.AssertionError: expected [1] but found [0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:1431)
+	at org.testng.Assert.assertEquals(Assert.java:1471)
+	at tests.PincodeCheckTest.verifyPincodeCheck(PincodeCheckTest.java:136)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2026-11-02 04:09:23 INFO  PincodeCheckTest - PINCODE CHECK TEST COMPLETED
+2026-11-02 04:09:23 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:09:23 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:09:23 INFO  PincodeCheckTest - STARTING PINCODE CHECK TEST
+2026-11-02 04:09:23 INFO  PincodeCheckTest - Product ID: 421921
+2026-11-02 04:09:23 INFO  PincodeCheckTest - Pincode: null
+2026-11-02 04:09:23 INFO  PincodeCheckTest - Stock Status: MISSING_PINCODE
+2026-11-02 04:09:23 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-02 04:09:23 INFO  RequestBuilder - Response Status Code: 400
+2026-11-02 04:09:23 INFO  RequestBuilder - Response Time: 125 ms
+2026-11-02 04:09:23 INFO  PincodeCheckTest - HTTP Status Code: 400
+2026-11-02 04:09:23 INFO  PincodeCheckTest - Response Body: {"statusCode":400,"error":"Bad Request","message":"pincode query parameter is required"}
+2026-11-02 04:09:23 INFO  PincodeCheckTest - Validating MISSING_PINCODE response
+2026-11-02 04:09:23 INFO  PincodeCheckTest - MISSING PINCODE validation PASSED
+2026-11-02 04:09:23 INFO  PincodeCheckTest - TEST PASSED: MISSING_PINCODE
+2026-11-02 04:09:23 INFO  PincodeCheckTest - PINCODE CHECK TEST COMPLETED
+2026-11-02 04:09:23 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:11:29 INFO  Utils - [TestNG] Running:
+  C:\Users\Purplle\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+2026-11-02 04:11:29 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:11:29 INFO  PincodeCheckTest - STARTING PINCODE CHECK TEST
+2026-11-02 04:11:29 INFO  PincodeCheckTest - Product ID: 421921
+2026-11-02 04:11:29 INFO  PincodeCheckTest - Pincode: 171008
+2026-11-02 04:11:29 INFO  PincodeCheckTest - Stock Status: IN_STOCK
+2026-11-02 04:11:31 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-02 04:11:31 INFO  RequestBuilder - Response Status Code: 200
+2026-11-02 04:11:31 INFO  RequestBuilder - Response Time: 235 ms
+2026-11-02 04:11:31 INFO  PincodeCheckTest - HTTP Status Code: 200
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Response Body: {"message":"Get delivery in 2 days, 4 Nov","pincode":171008,"delivery_by":null,"is_location_error":false}
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Validating IN_STOCK response
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Delivery Estimate: Get delivery in 2 days, 4 Nov
+2026-11-02 04:11:31 INFO  PincodeCheckTest - IN_STOCK validation PASSED
+2026-11-02 04:11:31 INFO  PincodeCheckTest - TEST PASSED: IN_STOCK
+2026-11-02 04:11:31 INFO  PincodeCheckTest - PINCODE CHECK TEST COMPLETED
+2026-11-02 04:11:31 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:11:31 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:11:31 INFO  PincodeCheckTest - STARTING PINCODE CHECK TEST
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Product ID: 421921
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Pincode: 121213
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Stock Status: OOS
+2026-11-02 04:11:31 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-02 04:11:31 INFO  RequestBuilder - Response Status Code: 200
+2026-11-02 04:11:31 INFO  RequestBuilder - Response Time: 173 ms
+2026-11-02 04:11:31 INFO  PincodeCheckTest - HTTP Status Code: 200
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Response Body: {"message":"Sorry! Items not deliverable to this pincode","pincode":121213,"is_location_error":true,"product_available":0}
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Validating OOS response
+2026-11-02 04:11:31 INFO  PincodeCheckTest - OOS validation PASSED
+2026-11-02 04:11:31 INFO  PincodeCheckTest - TEST PASSED: OOS
+2026-11-02 04:11:31 INFO  PincodeCheckTest - PINCODE CHECK TEST COMPLETED
+2026-11-02 04:11:31 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:11:31 INFO  PincodeCheckTest - ======================================
+2026-11-02 04:11:31 INFO  PincodeCheckTest - STARTING PINCODE CHECK TEST
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Product ID: 421921
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Pincode: null
+2026-11-02 04:11:31 INFO  PincodeCheckTest - Stock Status: MISSING_PINCODE
+2026-11-02 04:11:31 INFO  RequestBuilder - Sending GET request: /neo/bff/product/pincode-check
+2026-11-02 04:11:32 INFO  RequestBuilder - Response Status Code: 400
+2026-11-02 04:11:32 INFO  RequestBuilder - Response Time: 92 ms
+2026-11-02 04:11:32 INFO  PincodeCheckTest - HTTP Status Code: 400
+2026-11-02 04:11:32 INFO  PincodeCheckTest - Response Body: {"statusCode":400,"error":"Bad Request","message":"pincode query parameter is required"}
+2026-11-02 04:11:32 INFO  PincodeCheckTest - Validating MISSING_PINCODE response
+2026-11-02 04:11:32 INFO  PincodeCheckTest - MISSING PINCODE validation PASSED
+2026-11-02 04:11:32 INFO  PincodeCheckTest - TEST PASSED: MISSING_PINCODE
+2026-11-02 04:11:32 INFO  PincodeCheckTest - PINCODE CHECK TEST COMPLETED
+2026-11-02 04:11:32 INFO  PincodeCheckTest - ======================================
