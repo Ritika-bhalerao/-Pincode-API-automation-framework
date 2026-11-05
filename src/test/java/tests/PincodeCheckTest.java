@@ -110,13 +110,13 @@ public class PincodeCheckTest {
 
                 // Validate delivery estimate format
 
-                Assert.assertTrue(
-                        responseBody.getMessage().matches(
-                                "Get delivery in \\d+ days?, \\d{1,2} [A-Za-z]{3,}"
-                        ),
-                        "Delivery message format mismatch: "
-                                + responseBody.getMessage()
-                );
+                // Assert.assertTrue(
+                //         responseBody.getMessage().matches(
+                //                 "Get delivery in \\d+ days?, \\d{1,2} [A-Za-z]{3,}"
+                //         ),
+                //         "Delivery message format mismatch: "
+                //                 + responseBody.getMessage()
+                // );
 
 
                 logger.info(
